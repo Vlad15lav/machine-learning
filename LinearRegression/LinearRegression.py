@@ -24,7 +24,8 @@ print('Write degree of the polynomial: ', end='')
 Step = int(input())
 
 Plan_Matrix = GetMatrix_Plan(Step)
-y = Plan_Matrix @ GetW(Plan_Matrix)
+w = GetW(Plan_Matrix)
+y = Plan_Matrix @ w
 E = np.sum((t - y) ** 2) / 2
 plt.figure('M = ' + str(Step) + ', Error = ' + str(E))
 plt.plot(x, z, 'r-', label='Real model')
