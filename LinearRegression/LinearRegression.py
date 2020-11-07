@@ -27,6 +27,7 @@ Plan_Matrix = GetMatrix_Plan(Step)
 w = GetW(Plan_Matrix)
 y = Plan_Matrix @ w
 E = np.sum((t - y) ** 2) / 2
+print('Error = ' + str(E))
 plt.figure('M = ' + str(Step) + ', Error = ' + str(E))
 plt.plot(x, z, 'r-', label='Real model')
 plt.plot(x, t, 'b,', label='DataSet')
