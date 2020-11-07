@@ -1,11 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-N = 1000
-x = np.linspace(0, 1, N)
-z = 20 * np.sin(2 * np.pi * 3 * x) + 100 * np.exp(x)
-error = 10 * np.random.randn(N)
-t = z + error
+x = np.load('dataset.npy')
+t = np.load('target.npy')
+z =np.load('realmodel.npy')
+
+N = x.shape[0]
 
 # Build Design matrix
 def DesignMatrix(M):
