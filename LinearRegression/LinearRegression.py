@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 x = np.load('dataset.npy')
 t = np.load('target.npy')
-z =np.load('realmodel.npy')
+z = np.load('realmodel.npy')
 
 N = x.shape[0]
 
