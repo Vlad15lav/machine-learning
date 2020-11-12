@@ -1,0 +1,4 @@
+Iterations: 100
+Best regularization: 1e-12
+Best set basic functions: Polynom9 sin cos Polynom8 Polynom3 Polynom4 sqrt Polynom6 Polynom1 Polynom7 Polynom5 Polynom2 
+Test error: 4031.5165233672847
