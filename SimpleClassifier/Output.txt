@@ -1,0 +1,9 @@
+Metrics for the best threshold (t = 186)
+Accuracy = 0.841
+Precision = 0.8369565217391305
+Recall = 0.847
+F1 Score = 0.8419483101391652
+Alpha error = 0.165
+Beta error = 0.153
+AUC for Receiver Operating Characteristic Curve = 0.9185639999999999
+AUC for Precision-Recall Curve = 0.9185629902073653
