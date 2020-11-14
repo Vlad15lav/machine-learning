@@ -11,4 +11,5 @@ Train a simple regression model using the Moore-Penrose matrix. Polynomial regre
 Validation of hyperparameters. Regularization. Overfitting and Underfitting.
 ## Simple classifiers and metrics
 Simple classifier of football and basketball players.</br>
+Creating a custom dataset.</br>
 Metrics: TP, TN, FP, FN, Accuracy, Precision, Recall, F1-score, Error Alpha, Error Beta, ROC, PRC, AUC
