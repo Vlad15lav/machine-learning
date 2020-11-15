@@ -24,6 +24,7 @@ Classifier - the scalar product of the masked figures.</br>
 ![](/MulticlassClassifier/digits.png)
 ## Logistic regression
 Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.</br>
+![](/LogisticRegression/GradientDescent.png)</br>
 ![](/LogisticRegression/train.gif)
 ## Border classifier
 Binary classification. Sigmoid. Building a border that divides the space.</br>
