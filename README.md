@@ -1,11 +1,12 @@
 # Machine-Learning
 Topics and tasks for the classical machine learning
 
-1. Linear Regression
+1. Linear regression
 2. The validation parameters
 3. Simple classifiers and metrics
 4. Multiclass classifier
-5. Logistic Regression
+5. Logistic regression
+6. Border classifier
 
 ## Linear Regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
@@ -21,6 +22,7 @@ Metrics: TP, TN, FP, FN, Error Alpha, Error Beta, Accuracy, Precision, Recall, F
 Dataset digits sklearn. Classification of 10 digits. </br>
 Classifier - the scalar product of the masked figures.</br>
 ![](/MulticlassClassifier/digits.png)
-## Logistic Regression
+## Logistic regression
 Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.</br>
 ![](/LogisticRegression/train.gif)
+## Border classifier
