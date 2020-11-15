@@ -16,7 +16,7 @@ Validation of hyperparameters. Regularization. Overfitting and Underfitting.</br
 ![](/RegressionValidation/training.png)
 ## Simple classifiers and metrics
 Simple classifier of football and basketball players.</br>
-Creating a custom dataset.</br>
+Creating a custom dataset using normal distribution.</br>
 Metrics: TP, TN, FP, FN, Error Alpha, Error Beta, Accuracy, Precision, Recall, F1-score, ROC, PRC, AUC
 ## Multiclass classifier
 Dataset digits sklearn. Classification of 10 digits. </br>
@@ -26,3 +26,5 @@ Classifier - the scalar product of the masked figures.</br>
 Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.</br>
 ![](/LogisticRegression/train.gif)
 ## Border classifier
+Binary classification. Sigmoid.Building a border that divides the space.</br>
+![](/BorderClassifier/classifier.png)
