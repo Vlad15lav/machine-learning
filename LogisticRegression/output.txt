@@ -1,0 +1,27 @@
+(Gradient descent): Training...
+Training parameters:
+Iterations - 100
+Learning Rate - 0.005
+Epsilon for norm of the gradient - 1e-06
+Regularization - 0.005
+(Iter 0) Train Set: Accuracy - 0.83994, Error - 873.06601 | Validation Set: Accuracy - 0.85833, Error - 258.08695
+(Iter 2) Train Set: Accuracy - 0.94502, Error - 275.11265 | Validation Set: Accuracy - 0.92778, Error - 98.82583
+(Iter 4) Train Set: Accuracy - 0.96173, Error - 187.70168 | Validation Set: Accuracy - 0.94722, Error - 75.58855
+(Iter 6) Train Set: Accuracy - 0.96868, Error - 148.78807 | Validation Set: Accuracy - 0.96389, Error - 66.81897
+(Iter 8) Train Set: Accuracy - 0.97216, Error - 125.93626 | Validation Set: Accuracy - 0.96389, Error - 62.48557
+(Iter 10) Train Set: Accuracy - 0.97564, Error - 110.34299 | Validation Set: Accuracy - 0.96944, Error - 59.80674
+(Gradient descent): Done!
+
+Accuracy on Validation Set: 0.9694444444444444
+[[30.  0.  0.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0. 41.  0.  0.  1.  0.  0.  0.  0.  1.]
+ [ 0.  1. 38.  0.  0.  0.  0.  0.  0.  0.]
+ [ 1.  0.  0. 30.  0.  0.  0.  1.  0.  0.]
+ [ 0.  0.  0.  0. 35.  0.  0.  0.  0.  0.]
+ [ 0.  0.  0.  0.  1. 39.  1.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  0. 37.  0.  0.  0.]
+ [ 0.  0.  1.  0.  0.  0.  0. 37.  0.  0.]
+ [ 0.  0.  0.  1.  0.  0.  0.  0. 29.  0.]
+ [ 0.  0.  0.  0.  0.  0.  0.  1.  1. 33.]]
+Save the model?(y/n): y
+The model is saved to file - SaveModel.pickle!
