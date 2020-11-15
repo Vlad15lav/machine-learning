@@ -22,3 +22,5 @@ Dataset digits sklearn. Classification of 10 digits. </br>
 Classifier - the scalar product of the masked figures.</br>
 ![](/MulticlassClassifier/digits.png)
 ## Logistic Regression
+Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.</br>
+![](/LogisticRegression/train.gif)
