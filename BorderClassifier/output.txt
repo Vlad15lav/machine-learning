@@ -1,0 +1,57 @@
+(Gradient descent): Training...
+Training parameters:
+Parameter initialization - 0.01
+iterations - 200
+Learning Rate - 0.00011
+Epsilon for norm gradient - 0.001
+(Iteration 0) Train Set: Error - 1087.55643 | Validation Set: Error - 272.8304
+(Iteration 5) Train Set: Error - 1004.77053 | Validation Set: Error - 252.65067
+(Iteration 10) Train Set: Error - 939.25236 | Validation Set: Error - 236.80632
+(Iteration 15) Train Set: Error - 885.92678 | Validation Set: Error - 223.95536
+(Iteration 20) Train Set: Error - 841.37705 | Validation Set: Error - 213.25316
+(Iteration 25) Train Set: Error - 803.31217 | Validation Set: Error - 204.13348
+(Iteration 30) Train Set: Error - 770.17859 | Validation Set: Error - 196.21205
+(Iteration 35) Train Set: Error - 740.90094 | Validation Set: Error - 189.223
+(Iteration 40) Train Set: Error - 714.71627 | Validation Set: Error - 182.97803
+(Iteration 45) Train Set: Error - 691.06897 | Validation Set: Error - 177.34045
+(Iteration 50) Train Set: Error - 669.54395 | Validation Set: Error - 172.20854
+(Iteration 55) Train Set: Error - 649.82342 | Validation Set: Error - 167.50482
+(Iteration 60) Train Set: Error - 631.65852 | Validation Set: Error - 163.16894
+(Iteration 65) Train Set: Error - 614.85039 | Validation Set: Error - 159.15294
+(Iteration 70) Train Set: Error - 599.23717 | Validation Set: Error - 155.41802
+(Iteration 75) Train Set: Error - 584.68497 | Validation Set: Error - 151.93224
+(Iteration 80) Train Set: Error - 571.08149 | Validation Set: Error - 148.66897
+(Iteration 85) Train Set: Error - 558.33136 | Validation Set: Error - 145.60568
+(Iteration 90) Train Set: Error - 546.35274 | Validation Set: Error - 142.72311
+(Iteration 95) Train Set: Error - 535.07473 | Validation Set: Error - 140.00466
+(Iteration 100) Train Set: Error - 524.43546 | Validation Set: Error - 137.43585
+(Iteration 105) Train Set: Error - 514.3805 | Validation Set: Error - 135.00399
+(Iteration 110) Train Set: Error - 504.86175 | Validation Set: Error - 132.6979
+(Iteration 115) Train Set: Error - 495.83642 | Validation Set: Error - 130.50762
+(Iteration 120) Train Set: Error - 487.26631 | Validation Set: Error - 128.4243
+(Iteration 125) Train Set: Error - 479.11714 | Validation Set: Error - 126.43997
+(Iteration 130) Train Set: Error - 471.35804 | Validation Set: Error - 124.54749
+(Iteration 135) Train Set: Error - 463.96116 | Validation Set: Error - 122.74039
+(Iteration 140) Train Set: Error - 456.90125 | Validation Set: Error - 121.01282
+(Iteration 145) Train Set: Error - 450.15535 | Validation Set: Error - 119.35945
+(Iteration 150) Train Set: Error - 443.70258 | Validation Set: Error - 117.77545
+(Iteration 155) Train Set: Error - 437.52386 | Validation Set: Error - 116.25637
+(Iteration 160) Train Set: Error - 431.60174 | Validation Set: Error - 114.79817
+(Iteration 165) Train Set: Error - 425.92021 | Validation Set: Error - 113.39712
+(Iteration 170) Train Set: Error - 420.46458 | Validation Set: Error - 112.04981
+(Iteration 175) Train Set: Error - 415.22133 | Validation Set: Error - 110.75307
+(Iteration 180) Train Set: Error - 410.17798 | Validation Set: Error - 109.50401
+(Iteration 185) Train Set: Error - 405.32302 | Validation Set: Error - 108.29994
+(Iteration 190) Train Set: Error - 400.6458 | Validation Set: Error - 107.13837
+(Iteration 195) Train Set: Error - 396.13647 | Validation Set: Error - 106.01698
+(Gradient descent): Done!
+True Positive = 191
+False Positive = 10
+True Negative = 189
+False Negative = 10
+Accuracy = 0.95
+Precision = 0.9502487562189055
+Recall = 0.9502487562189055
+F1 Score = 0.9502487562189055
+Alpha error = 0.05025125628140704
+Beta error = 0.04975124378109453
