@@ -8,9 +8,11 @@ Topics and tasks for the classical machine learning
 5. Logistic Regression
 
 ## Linear Regression
-Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.
+Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
+![](/LinearRegression/dataset.png)
 ## The validation parameters
-Validation of hyperparameters. Regularization. Overfitting and Underfitting.
+Validation of hyperparameters. Regularization. Overfitting and Underfitting.</br>
+![](/RegressionValidation/training.png)
 ## Simple classifiers and metrics
 Simple classifier of football and basketball players.</br>
 Creating a custom dataset.</br>
