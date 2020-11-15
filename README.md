@@ -19,5 +19,6 @@ Creating a custom dataset.</br>
 Metrics: TP, TN, FP, FN, Error Alpha, Error Beta, Accuracy, Precision, Recall, F1-score, ROC, PRC, AUC
 ## Multiclass classifier
 Dataset digits sklearn. Classification of 10 digits. </br>
-Classifier - the scalar product of the masked figures.
+Classifier - the scalar product of the masked figures.</br>
+![](/MulticlassClassifier/digits.png)
 ## Logistic Regression
