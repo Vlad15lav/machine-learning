@@ -7,6 +7,7 @@ Topics and tasks for the classical machine learning
 4. Multiclass classifier
 5. Logistic regression
 6. Border classifier
+7. Decision Tree
 
 ## Linear Regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
@@ -29,3 +30,8 @@ Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.
 ## Border classifier
 Binary classification. Sigmoid. Building a border that divides the space.</br>
 ![](/BorderClassifier/classifier.png)
+## Decision Tree
+Binary decision tree. Root node, internal node, terminal node.</br>
+Split function(hyperplanes parallel to the coordinate axes). Feature selection function.</br>
+Criterions - Entropy (Information Gain), Gini, Error.</br>
+Criteria for stopping tree growth - max deep, min sample, min criterion.</br>
