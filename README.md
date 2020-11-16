@@ -34,4 +34,4 @@ Binary classification. Sigmoid. Building a border that divides the space.</br>
 Binary decision tree. Root node, internal node, terminal node.</br>
 Split function(hyperplanes parallel to the coordinate axes). Feature selection function.</br>
 Criterions - Entropy (Information Gain), Gini, Error.</br>
-Criteria for stopping tree growth - max deep, min sample, min criterion.</br>
+Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
