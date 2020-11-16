@@ -8,6 +8,9 @@ Topics and tasks for the classical machine learning
 5. Logistic regression
 6. Border classifier
 7. Decision Tree
+8. Random Forest
+9. AdaBoost
+10. K-means
 
 ## Linear Regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
