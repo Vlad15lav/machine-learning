@@ -38,3 +38,4 @@ Binary decision tree. Root node, internal node (weak classifier), terminal node.
 Split function(hyperplanes parallel to the coordinate axes). Feature selection function.</br>
 Criterions - Entropy (Information Gain), Gini, Error.</br>
 Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
+![](/DecisionTree/ExampleTree.png)
