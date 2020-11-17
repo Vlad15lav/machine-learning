@@ -40,4 +40,4 @@ Criterions - Entropy (Information Gain), Gini, Error.</br>
 Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
 ![](/DecisionTree/ExampleTree.png)
 ## Random Forest
-Ensemble of classifiers. Bagging. Random Node Optimization.
+Ensemble of classifiers. Different trees. Bagging. Random Node Optimization.
