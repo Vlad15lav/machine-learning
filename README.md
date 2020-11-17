@@ -41,3 +41,4 @@ Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
 ![](/DecisionTree/ExampleTree.png)
 ## Random Forest
 Ensemble of classifiers. Different trees. Bagging. Random Node Optimization.
+![](/RandomForest/ExampleRandomForest.png)
