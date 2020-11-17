@@ -1,0 +1,30 @@
+Iter - 1 | (Valid set) Accuracy - 0.8229166666666666
+Iter - 2 | (Valid set) Accuracy - 0.8611111111111112
+Iter - 3 | (Valid set) Accuracy - 0.8090277777777778
+Iter - 4 | (Valid set) Accuracy - 0.8472222222222222
+Iter - 5 | (Valid set) Accuracy - 0.78125
+Iter - 6 | (Valid set) Accuracy - 0.40625
+Iter - 7 | (Valid set) Accuracy - 0.8472222222222222
+Iter - 8 | (Valid set) Accuracy - 0.2777777777777778
+Iter - 9 | (Valid set) Accuracy - 0.8506944444444444
+Iter - 10 | (Valid set) Accuracy - 0.8541666666666666
+Iter - 11 | (Valid set) Accuracy - 0.6840277777777778
+Iter - 12 | (Valid set) Accuracy - 0.8680555555555556
+Iter - 13 | (Valid set) Accuracy - 0.8506944444444444
+Iter - 14 | (Valid set) Accuracy - 0.875
+Iter - 15 | (Valid set) Accuracy - 0.8576388888888888
+Iter - 16 | (Valid set) Accuracy - 0.8368055555555556
+Iter - 17 | (Valid set) Accuracy - 0.6909722222222222
+Iter - 18 | (Valid set) Accuracy - 0.8611111111111112
+Iter - 19 | (Valid set) Accuracy - 0.8541666666666666
+Iter - 20 | (Valid set) Accuracy - 0.5173611111111112
+Iter - 21 | (Valid set) Accuracy - 0.8541666666666666
+Iter - 22 | (Valid set) Accuracy - 0.5
+Iter - 23 | (Valid set) Accuracy - 0.8506944444444444
+Iter - 24 | (Valid set) Accuracy - 0.6840277777777778
+Iter - 25 | (Valid set) Accuracy - 0.8541666666666666
+
+{'Max Deep': 9,
+ 'Min Criterion': 0.03,
+ 'Min Data': 11,
+ 'Type Criterion': 'Error'}
