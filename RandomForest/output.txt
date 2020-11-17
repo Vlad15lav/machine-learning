@@ -1,0 +1,33 @@
+[{'Max Deep': 7, 'Min Data': 48, 'Min Criterion': 0.01, 'Type Criterion': 'Gini'},
+{'Max Deep': 5, 'Min Data': 5, 'Min Criterion': 0.03, 'Type Criterion': 'Gini'},
+{'Max Deep': 1, 'Min Data': 42, 'Min Criterion': 0.06, 'Type Criterion': 'Entropy'},
+{'Max Deep': 10, 'Min Data': 40, 'Min Criterion': 0.04, 'Type Criterion': 'Error'},
+{'Max Deep': 12, 'Min Data': 41, 'Min Criterion': 0.06, 'Type Criterion': 'Entropy'},
+{'Max Deep': 7, 'Min Data': 23, 'Min Criterion': 0.05, 'Type Criterion': 'Gini'},
+{'Max Deep': 9, 'Min Data': 24, 'Min Criterion': 0.05, 'Type Criterion': 'Error'},
+{'Max Deep': 8, 'Min Data': 15, 'Min Criterion': 0.08, 'Type Criterion': 'Entropy'}]
+
+(Train Set) Confusion Matrix:
+[[138.   0.   0.   0.   1.   0.   0.   0.   1.   0.]
+ [  0. 126.   0.   4.   3.   1.   1.   0.   0.  12.]
+ [  1.   0. 128.   1.   0.   0.   1.   0.   1.   4.]
+ [  0.   2.   2. 135.   0.   1.   1.   3.   5.   1.]
+ [  2.   3.   0.   0. 140.   0.   0.   2.   1.   0.]
+ [  1.   0.   0.   3.   0. 135.   0.   0.   1.   1.]
+ [  1.   0.   0.   0.   1.   0. 143.   0.   0.   0.]
+ [  0.   0.   0.   0.   1.   0.   0. 143.   1.   1.]
+ [  0.   5.   2.   3.   1.   1.   0.   2. 128.   1.]
+ [  0.   1.   0.   2.   0.   3.   0.   3.   2. 130.]]
+(Train Set) Accuracy: 0.9366736256089074
+(Test Set) Confusion Matrix:
+[[37.  0.  1.  0.  0.  0.  0.  0.  0.  0.]
+ [ 0. 23.  1.  1.  2.  2.  1.  0.  0.  5.]
+ [ 0.  0. 37.  2.  0.  0.  0.  0.  1.  1.]
+ [ 0.  0.  0. 29.  0.  1.  0.  2.  1.  0.]
+ [ 1.  0.  0.  0. 31.  0.  0.  1.  0.  0.]
+ [ 0.  0.  0.  0.  0. 40.  0.  0.  0.  1.]
+ [ 0.  0.  0.  0.  0.  0. 36.  0.  0.  0.]
+ [ 0.  0.  0.  0.  0.  1.  0. 32.  0.  0.]
+ [ 2.  2.  0.  0.  0.  0.  0.  1. 25.  1.]
+ [ 1.  0.  0.  0.  0.  0.  0.  1.  1. 36.]]
+(Test Set) Accuracy: 0.9055555555555556
