@@ -39,3 +39,5 @@ Split function(hyperplanes parallel to the coordinate axes). Feature selection f
 Criterions - Entropy (Information Gain), Gini, Error.</br>
 Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
 ![](/DecisionTree/ExampleTree.png)
+## Random Forest
+###TODO
