@@ -34,7 +34,7 @@ Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.
 Binary classification. Sigmoid. Building a border that divides the space.</br>
 ![](/BorderClassifier/classifier.png)
 ## Decision Tree
-Binary decision tree. Root node, internal node, terminal node.</br>
+Binary decision tree. Root node, internal node (weak classifier), terminal node.</br>
 Split function(hyperplanes parallel to the coordinate axes). Feature selection function.</br>
 Criterions - Entropy (Information Gain), Gini, Error.</br>
 Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
