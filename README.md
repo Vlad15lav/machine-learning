@@ -48,6 +48,6 @@ Ensemble of classifiers. Different trees. Bagging. Random Node Optimization.
 Training on a weighted sample. Strong classifier - a set of weighted weak classifiers.</br>
 Calculating the weight for a weak classifier and updating the sample weights.</br>
 ## K-means
-Clusterings. The update of centroids. Elbow method.
+Clusterings. The update of centroids. Elbow method.</br>
 ![](/K-means/eblowmethod.png)</br>
 ![](/K-means/training.png)
