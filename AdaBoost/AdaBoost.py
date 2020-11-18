@@ -106,6 +106,7 @@ class AdaBoost:
     # Predict
     def predict(self, x):
         if len(x.shape) == 1:
+            Y = 0
             for i in range(self.__size):
                 Y += self.__weights[i] * self.__DecisionTree(x, self.__classifiers[i])
             return np.sign(Y)
