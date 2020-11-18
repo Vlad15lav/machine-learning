@@ -1,0 +1,13 @@
+(K-means) Training...
+(K-means) K = 1, Error - 6208.710225190338
+(K-means) K = 2, Error - 3438.809637641388
+(K-means) K = 3, Error - 1455.7955146988993
+(K-means) K = 4, Error - 1285.9068872278617
+(K-means) K = 5, Error - 1099.081267435614
+(K-means) K = 6, Error - 942.0609357429191
+(K-means) K = 7, Error - 829.083187126812
+(K-means) K = 8, Error - 717.9667309951308
+(K-means) K = 9, Error - 640.1469650040839
+(K-means) K = 10, Error - 590.112143321957
+(K-means) Best k - 3
+(K-means) Done!
