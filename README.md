@@ -12,6 +12,8 @@ Topics and tasks for the classical machine learning
 9. AdaBoost
 10. K-means
 
+TODO: Multy target regression, QR SVD, Bias-Variance decomposition, Boston house price dataset
+
 ## Linear Regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
 ![](/LinearRegression/dataset.png)
