@@ -1,16 +1,16 @@
 # Machine Learning
 Topics and tasks for the classical machine learning
 
-1. Linear regression
-2. The validation parameters
-3. Simple classifiers and metrics
-4. Multiclass classifier
-5. Logistic regression
-6. Border classifier
-7. Decision Tree
-8. Random Forest
-9. AdaBoost
-10. K-means
+1. [Linear regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LinearRegression)
+2. [The validation parameters](https://github.com/Vlad15lav/Machine-Learning/tree/main/RegressionValidation)
+3. [Simple classifiers and metrics](https://github.com/Vlad15lav/Machine-Learning/tree/main/SimpleClassifier)
+4. [Multiclass classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/MulticlassClassifier)
+5. [Logistic regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LogisticRegression)
+6. [Border classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/BorderClassifier)
+7. [Decision Tree](https://github.com/Vlad15lav/Machine-Learning/tree/main/DecisionTree)
+8. [Random Forest](https://github.com/Vlad15lav/Machine-Learning/tree/main/RandomForest)
+9. [AdaBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/AdaBoost)
+10. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/Kmeans)
 
 `TODO: Multy target regression, QR SVD, Bias-Variance decomposition, Boston house price dataset`
 # Requirements
