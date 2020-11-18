@@ -43,6 +43,7 @@ Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
 Ensemble of classifiers. Different trees. Bagging. Random Node Optimization.
 ![](/RandomForest/ExampleRandomForest.png)
 ## AdaBoost
-TODO
+Training on a weighted sample. Strong classifier - a set of weighted weak classifiers.</br>
+Calculating the weight for a weak classifier and updating the sample weights.</br>
 ## K-means
 TODO
