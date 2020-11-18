@@ -164,7 +164,7 @@ class RandomForest:
                     else:
                         curNode = curNode['right']
                 conf.append(curNode['Confidence'])
-            return np.sum(conf, axis=0)
+            return np.mean(conf, axis=0)
         else:
             pred = list()
             for i in range(X.shape[0]):
@@ -177,7 +177,7 @@ class RandomForest:
                         else:
                             curNode = curNode['right']
                     conf.append(curNode['Confidence'])
-                pred.append(np.sum(conf, axis=0))
+                pred.append(np.mean(conf, axis=0))
             return pred
 
 # Functions
