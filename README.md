@@ -47,3 +47,4 @@ Training on a weighted sample. Strong classifier - a set of weighted weak classi
 Calculating the weight for a weak classifier and updating the sample weights.</br>
 ## K-means
 Clusterings. The update of centroids. Elbow method.
+![](/K-means/train.png)
