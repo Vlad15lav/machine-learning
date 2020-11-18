@@ -1,0 +1,4 @@
+Choose the number C{-1}: 5
+Choose the number C{1}: 9
+Train set - {'Accuracy': 0.9896193771626297, 'Alpha error': 0.02112676056338028, 'Beta error': 0.0}
+Test set - {'Accuracy': 0.9452054794520548, 'Alpha error': 0.05263157894736842, 'Beta error': 0.05714285714285714}
