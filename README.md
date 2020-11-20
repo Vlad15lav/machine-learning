@@ -12,7 +12,7 @@ Topics and tasks for the classical machine learning
 9. [AdaBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/AdaBoost)
 10. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 
-`TODO: Multy target regression, QR SVD, Bias-Variance decomposition, Boston house price dataset`
+`TODO: SVM, Multy target regression, QR SVD, Bias-Variance decomposition, Boston house price dataset`
 # Requirements
 `pip install -U -r requirements.txt`
 
