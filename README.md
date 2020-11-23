@@ -14,7 +14,7 @@ Topics and tasks for the classical machine learning
 11. [AdaBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/AdaBoost)
 12. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 
-`TODO: SVM, The Boston Housing Dataset with sklearn tools.`
+`TODO: SVM, K-NN, The Boston Housing Dataset with sklearn tools.`
 # Requirements
 `pip install -U -r requirements.txt`
 
