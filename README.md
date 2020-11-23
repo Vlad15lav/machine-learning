@@ -26,7 +26,7 @@ Solar Flare Data Set. Decomposition QR, SVD.</br>
 ![](/MultyTargetRegression/solarflare.jpg)
 ## Decomposition Error
 Decomposition error on bias and variance. Overfitting and Underfitting.</br>
-![](/MultyTargetRegression/theory.png)
+![](/DecompositionError/theory.png)
 ## Validation parameters
 Validation of hyperparameters. Regularization.</br>
 ![](/RegressionValidation/training.png)
