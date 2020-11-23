@@ -2,23 +2,27 @@
 Topics and tasks for the classical machine learning
 
 1. [Linear regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LinearRegression)
-2. [The validation parameters](https://github.com/Vlad15lav/Machine-Learning/tree/main/RegressionValidation)
-3. [Simple classifiers and metrics](https://github.com/Vlad15lav/Machine-Learning/tree/main/SimpleClassifier)
-4. [Multiclass classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/MulticlassClassifier)
-5. [Logistic regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LogisticRegression)
-6. [Border classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/BorderClassifier)
-7. [Decision Tree](https://github.com/Vlad15lav/Machine-Learning/tree/main/DecisionTree)
-8. [Random Forest](https://github.com/Vlad15lav/Machine-Learning/tree/main/RandomForest)
-9. [AdaBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/AdaBoost)
-10. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
+2. [Multy target regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/MultyLinearRegression)
+3. [The validation parameters](https://github.com/Vlad15lav/Machine-Learning/tree/main/RegressionValidation)
+4. [Simple classifiers and metrics](https://github.com/Vlad15lav/Machine-Learning/tree/main/SimpleClassifier)
+5. [Multiclass classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/MulticlassClassifier)
+6. [Logistic regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LogisticRegression)
+7. [Border classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/BorderClassifier)
+8. [Decision Tree](https://github.com/Vlad15lav/Machine-Learning/tree/main/DecisionTree)
+9. [Random Forest](https://github.com/Vlad15lav/Machine-Learning/tree/main/RandomForest)
+10. [AdaBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/AdaBoost)
+11. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 
-`TODO: SVM, Multy target regression (QR SVD), Bias-Variance decomposition, The Boston Housing Dataset with sklearn tools.`
+`TODO: SVM, Bias-Variance decomposition, The Boston Housing Dataset with sklearn tools.`
 # Requirements
 `pip install -U -r requirements.txt`
 
-## Linear Regression
+## Linear regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
 ![](/LinearRegression/dataset.png)
+# Multy target regression
+Solar Flare Data Set. Decomposition QR, SVD.
+![](/MultyTargetRegression/solarflare.jpg)
 ## The validation parameters
 Validation of hyperparameters. Regularization. Overfitting and Underfitting.</br>
 ![](/RegressionValidation/training.png)
