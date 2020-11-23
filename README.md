@@ -21,7 +21,7 @@ Topics and tasks for the classical machine learning
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
 ![](/LinearRegression/dataset.png)
 # Multy target regression
-Solar Flare Data Set. Decomposition QR, SVD.
+Solar Flare Data Set. Decomposition QR, SVD.</br>
 ![](/MultyTargetRegression/solarflare.jpg)
 ## The validation parameters
 Validation of hyperparameters. Regularization. Overfitting and Underfitting.</br>
