@@ -25,7 +25,7 @@ Train a simple regression model using the Moore-Penrose matrix. Polynomial regre
 Solar Flare Data Set. Decomposition QR, SVD.</br>
 ![](/MultyTargetRegression/solarflare.jpg)
 ## Decomposition Error
-Decomposition error on bias and variance. Overfitting and Underfitting.</br>
+Decomposition error on bias and variance. Underfitting and Overfitting.</br>
 ![](/DecompositionError/decomp.png)
 ## Validation parameters
 Validation of hyperparameters. Regularization.</br>
