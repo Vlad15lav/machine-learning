@@ -2,7 +2,7 @@
 Topics and tasks for the classical machine learning
 
 1. [Linear regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LinearRegression)
-2. [Multy target regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/MultyLinearRegression)
+2. [Multy target regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/MultyTargetRegression)
 3. [The validation parameters](https://github.com/Vlad15lav/Machine-Learning/tree/main/RegressionValidation)
 4. [Simple classifiers and metrics](https://github.com/Vlad15lav/Machine-Learning/tree/main/SimpleClassifier)
 5. [Multiclass classifier](https://github.com/Vlad15lav/Machine-Learning/tree/main/MulticlassClassifier)
