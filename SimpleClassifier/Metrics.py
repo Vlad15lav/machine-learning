@@ -54,10 +54,10 @@ def Quality(t_ClassificationSoccer, t_ClassificationBasketball):
 def Accuracy(TP, TN):
     return (TP + TN) / (2 * N)
 # Calculate Error_Alpha
-def Error_Alpha(FP, TN): # Вычисление ошибки 1-го рода
+def Error_Alpha(FP, TN):
     return FP / (TN + FP)
 # Calculate Error_Beta
-def Error_Beta(TP, FN): # Вычисление ошибки 2-го рода
+def Error_Beta(TP, FN):
     return FN / (TP + FN)
 # Calculate Precision
 def Precision(TP, FP):
