@@ -24,7 +24,7 @@ x_validation = Data[index_validation]
 t_validation = Target[index_validation]
 
 
-# Функции
+# Functions
 # Distributes the powers of polynomials over the components of the vector for each basis function
 def GetSteps(Step):
     MaxStep = len(Step)
