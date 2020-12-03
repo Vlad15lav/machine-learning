@@ -16,7 +16,7 @@ Topics and tasks for the classical machine learning
 
 `TODO: SVM, K-NN, The Boston Housing Dataset(regression) and Titanic(classification) with sklearn models and pandas.`
 # Requirements
-`pip install -U -r requirements.txt`
+` pip install -U -r requirements.txt `
 
 ## Linear regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
