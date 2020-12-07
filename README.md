@@ -15,7 +15,7 @@ Topics and tasks for the classical machine learning
 12. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 13. [KNN](https://github.com/Vlad15lav/Machine-Learning/tree/main/KNN)
 
-` TODO: SVM, K-NN, The Boston Housing Dataset(regression) and Titanic(classification) with sklearn models and pandas. `
+` TODO: SVM, The Boston Housing Dataset(regression) and Titanic(classification) with sklearn models and pandas. `
 
 # Requirements
 ` pip install -U -r requirements.txt `
