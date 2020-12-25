@@ -1,5 +1,5 @@
 # Machine Learning
-Topics and tasks for the classical machine learning
+Topics and tasks for the classical Machine Learning
 
 1. [Linear regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/LinearRegression)
 2. [Multy target regression](https://github.com/Vlad15lav/Machine-Learning/tree/main/MultyTargetRegression)
