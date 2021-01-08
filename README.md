@@ -15,10 +15,12 @@ Topics and tasks for the classical Machine Learning
 12. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 13. [KNN](https://github.com/Vlad15lav/Machine-Learning/tree/main/KNN)
 
-` TODO: SVM, The Boston Housing Dataset(regression) and Titanic(classification) with sklearn models and pandas. `
+` TODO: Naive Bayes, SVM, Gradient Boost, XGBoost, LightGBM, CatBoost `
 
 # Requirements
-` pip install -U -r requirements.txt `
+```
+pip install -U -r requirements.txt
+```
 
 ## Linear regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
