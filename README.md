@@ -14,8 +14,9 @@ Topics and tasks for the classical Machine Learning
 11. [AdaBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/AdaBoost)
 12. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 13. [KNN](https://github.com/Vlad15lav/Machine-Learning/tree/main/KNN)
+14. [Naive Bayes]()
 
-` TODO: Naive Bayes, SVM, Gradient Boost, XGBoost, LightGBM, CatBoost `
+` TODO: SVM, Gradient Boost, XGBoost, LightGBM, CatBoost `
 
 # Requirements
 ```
@@ -68,3 +69,6 @@ Clusterings. The update of centroids. Elbow method.</br>
 ## K-nearest neighbor classifier
 L1 distance.</br>
 ![](/KNN/knn.png)
+## Naive Bayes
+Bayes' Theorem. Naive assumption of feature independence. Classifying Email as Spam or Non-Spam.
+![](/NaiveBayes/naive-bayes.png)
