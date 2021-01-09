@@ -37,7 +37,7 @@ class NaiveBayes:
         pred = self.predict(x_set)
         return np.sum(pred.argmax(axis=1) == t_set) / t_set.shape[0]
 
-data, targets = read_data('spambase.data')
+data, targets = read_data('data/spambase.data')
 
 # Split data
 N = data.shape[0]
