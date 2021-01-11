@@ -15,8 +15,9 @@ Topics and tasks for the classical Machine Learning
 12. [K-means](https://github.com/Vlad15lav/Machine-Learning/tree/main/K-means)
 13. [KNN](https://github.com/Vlad15lav/Machine-Learning/tree/main/KNN)
 14. [Naive Bayes](https://github.com/Vlad15lav/Machine-Learning/tree/main/NaiveBayes)
+15. [SVM](https://github.com/Vlad15lav/Machine-Learning/tree/main/SVM)
 
-` TODO: SVM, Gradient Boost, XGBoost, LightGBM, CatBoost `
+` TODO: Gradient Boost, XGBoost, LightGBM, CatBoost `
 
 # Requirements
 ```
@@ -26,49 +27,65 @@ pip install -U -r requirements.txt
 ## Linear regression
 Train a simple regression model using the Moore-Penrose matrix. Polynomial regression.</br>
 ![](/LinearRegression/dataset.png)
+
 ## Multy target regression
 Solar Flare Data Set. Decomposition QR, SVD.</br>
 ![](/MultyTargetRegression/solarflare.jpg)
+
 ## Decomposition Error
 Decomposition error on bias and variance. Underfitting and Overfitting.</br>
-![](/DecompositionError/decomp.png)
+<img src="/DecompositionError/decomp.png" alt="drawing" width="450"/>
+
 ## Validation parameters
 Validation of hyperparameters. Regularization.</br>
 ![](/RegressionValidation/training.png)
+
 ## Simple classifiers and metrics
 Simple classifier of football and basketball players.</br>
 Creating a custom dataset using normal distribution.</br>
 Metrics: TP, TN, FP, FN, Error Alpha, Error Beta, Accuracy, Precision, Recall, F1-score, ROC, PRC, AUC
+
 ## Multiclass classifier
 Dataset digits sklearn. Classification of 10 digits. </br>
 Classifier - the scalar product of the masked figures.</br>
 ![](/MulticlassClassifier/digits.png)
+
 ## Logistic regression
 Logistic regression model. Softmax. Gradient descent. Initialization Xavier, He.</br>
-![](/LogisticRegression/GradientDescent.png)</br>
-![](/LogisticRegression/train.gif)
+<img src="/LogisticRegression/GradientDescent.png" alt="drawing" width="550"/>
+<img src="/LogisticRegression/train.gif" alt="drawing" width="550"/>
+
 ## Border classifier
 Binary classification. Sigmoid. Building a border that divides the space.</br>
 ![](/BorderClassifier/classifier.png)
+
 ## Decision Tree
 Binary decision tree. Root node, internal node (weak classifier), terminal node.</br>
 Split function(hyperplanes parallel to the coordinate axes). Feature selection function.</br>
 Criterions - Entropy (Information Gain), Gini, Error.</br>
 Criterions for stopping tree growth - max deep, min sample, min criterion.</br>
-![](/DecisionTree/ExampleTree.png)
+<img src="/DecisionTree/ExampleTree.png" alt="drawing" width="550"/>
+
 ## Random Forest
 Ensemble of classifiers. Different trees. Bagging. Random Node Optimization.
 ![](/RandomForest/ExampleRandomForest.png)
+
 ## AdaBoost
 Training on a weighted sample. Strong classifier - a set of weighted weak classifiers.</br>
 Calculating the weight for a weak classifier and updating the sample weights.</br>
+
 ## K-means
 Clusterings. The update of centroids. Elbow method.</br>
 ![](/K-means/eblowmethod.png)</br>
 ![](/K-means/training.png)
+
 ## K-nearest neighbor classifier
 L1 distance.</br>
-![](/KNN/knn.png)
+<img src="/KNN/knn.png" alt="drawing" width="550"/>
+
 ## Naive Bayes
 Bayes' Theorem. Naive assumption of feature independence. Classifying Email as Spam or Non-Spam.</br>
-![](/NaiveBayes/naive-bayes.png)
+<img src="/NaiveBayes/naive-bayes.png" alt="drawing" width="550"/>
+
+## Support Vector Machine
+<img src="/SVM/svm.png" alt="drawing" width="550"/>
