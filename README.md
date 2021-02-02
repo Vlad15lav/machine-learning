@@ -18,7 +18,7 @@ Topics and tasks for the classical Machine Learning
 15. [SVM](https://github.com/Vlad15lav/Machine-Learning/tree/main/SVM)
 16. [GradientBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/GradientBoost)
 
-` TODO: XGBoost, LightGBM, CatBoost `
+` TODO: Titanic dataset with Sklearn `
 
 # Requirements
 ```
