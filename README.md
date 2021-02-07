@@ -17,8 +17,7 @@ Topics and tasks for the classical Machine Learning
 14. [Naive Bayes](https://github.com/Vlad15lav/Machine-Learning/tree/main/NaiveBayes)
 15. [SVM](https://github.com/Vlad15lav/Machine-Learning/tree/main/SVM)
 16. [GradientBoost](https://github.com/Vlad15lav/Machine-Learning/tree/main/GradientBoost)
-
-` TODO: Titanic dataset with Sklearn `
+17. [Sklearn](https://github.com/Vlad15lav/Machine-Learning/tree/main/Sklearn)
 
 # Requirements
 ```
@@ -93,3 +92,6 @@ Bayes' Theorem. Naive assumption of feature independence. Classifying Email as S
 
 ## Gradient Boost
 Decision Stump ensemble. Boston Housing Dataset.
+
+## Sklearn
+Use Sklearn tools for Titanic Dataset by Kaggle.
