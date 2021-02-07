@@ -1,0 +1,6 @@
+Logit| Val score - 77.61194029850746
+SVM| Val score - 76.86567164179104
+XGBoost| Val score - 79.1044776119403
+Naive Bayes| Val score - 80.59701492537313
+AdaBoost| Val score - 84.32835820895522
+RF| Val score - 79.8507462686567
