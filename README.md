@@ -94,4 +94,4 @@ Bayes' Theorem. Naive assumption of feature independence. Classifying Email as S
 Decision Stump ensemble. Boston Housing Dataset.
 
 ## Sklearn
-Use Sklearn tools for Titanic Dataset by Kaggle.
+Use Sklearn tools for Titanic Dataset by Kaggle. Accuracy - 0.77990.
